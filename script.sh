@@ -23,7 +23,7 @@ export AWS_SSH_KEY_NAME=MYKEYNAME
 export AWS_CONTROL_PLANE_MACHINE_TYPE=t3.medium
 export AWS_NODE_MACHINE_TYPE=t3.medium
 
-### Do I have to install this separately?
+### This is an IaaS dependant install and only applicable to aws. If you want help on your vSphere environment please reach out to us directly, engage folks on the cluster-api channel on the kubernetes slack, or contact your vmware team. You can find this tool here: https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases
 
 clusterawsadm alpha bootstrap create-stack
 
