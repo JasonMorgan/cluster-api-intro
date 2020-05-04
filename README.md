@@ -8,4 +8,6 @@ Cluster API is a fast moving project, don't expect this repo to necessarily stay
 
 * [The Cluster API Book](https://cluster-api.sigs.k8s.io/introduction.html)
 * [VMware Tanzu Page](https://tanzu.vmware.com/tanzu)
+* [VMware TKG Page](https://tanzu.vmware.com/kubernetes-grid) for a supported commercial product using Cluster API
 * [Cluster-API channel](https://kubernetes.slack.com/archives/C8TSNPY4T) on the Kubernetes Slack
+* [TGIK](https://www.youtube.com/watch?v=A8dUFWbH3pM) on cluster API
